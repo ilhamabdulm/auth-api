@@ -1,7 +1,7 @@
 # auth-api
 
 ```
-Deploy Server : https://ecommerce-v2.herokuapp.com
+Deploy Server : http://auth-api.ilhammarzlik.com:3000
 ```
 
 How to run locally :
